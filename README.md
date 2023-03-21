@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pekkaRo
 - 👀 I’m interested in Python, C++, Machine Learning, Data Science, Sport Analytics, and computational sciences.
 - 🌱 I’m currently learning Rust, Go, distributed systems, and many other new shiny things 🙂
-- 💞️ I’m looking to collaborate on Sport Analytics and Computatinal Science
+- 💞️ I’m looking to collaborate on Sport Analytics and Computational Science
 - 📫 You can find me in LinkedIn https://fi.linkedin.com/in/roytta or in Twitter @pekkaroy
 
 <!---
