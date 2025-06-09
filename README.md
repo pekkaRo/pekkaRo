@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pekkaRo
 - 👀 I’m interested in Rust, Python, C++, Machine Learning, Data Science, all things weather related, Sport Analytics, and computational sciences.
-- 🌱 I’m currently learning more Rust, machine learning in weather prediction, and many other new shiny things 🙂
+- 🌱 I’m currently learning more Rust, machine learning in weather prediction, and other new shiny things 🙂
 - 💞️ I’m looking to collaborate on Sport Analytics and Computational Science
 - 📫 You can find me in LinkedIn https://fi.linkedin.com/in/roytta or in Twitter @pekkaroy
 
